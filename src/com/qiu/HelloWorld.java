@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("Modified HelloWorld");
 		System.out.println("Modified By MacBook");
+		System.out.println(new CreateTestMessage().GetTestMessage());
 	}
 
 }
