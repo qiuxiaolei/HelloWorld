@@ -11,6 +11,7 @@ public class HelloWorld {
 		System.out.println("Modified HelloWorld");
 		System.out.println("Modified By MacBook");
 		System.out.println(new CreateTestMessage().GetTestMessage());
+		System.out.println("Today is March 8");
 	}
 
 }
